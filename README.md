@@ -1,0 +1,1 @@
+The aim of this assignment was to implement a Sudoku solver using the singleton technique
